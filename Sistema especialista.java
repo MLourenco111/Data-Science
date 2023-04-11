@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class SistemaEspecialista {
     public static void main(String[] args) throws Exception {
         String[][] jogos = { { "FPS", "online", "estressado" }, { "Sandbox", "online", "criativo" }, { "Terror", "offline", "corajoso" } };
         String[] resposta =perguntas();
